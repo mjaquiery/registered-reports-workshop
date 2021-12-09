@@ -2,7 +2,8 @@
 workshop_id: matt
 topic: preregistration
 title: Registered Reports
-instructors: []
+instructors:
+  - Matt
 instructor_emails: []
 helpers: []
 start_times:
